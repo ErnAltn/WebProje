@@ -1,0 +1,150 @@
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\appsettings.json
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Proje.staticwebassets.runtime.json
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Proje.exe
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Proje.deps.json
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Proje.runtimeconfig.json
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Proje.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Proje.pdb
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.csproj.AssemblyReference.cache
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.AssemblyInfoInputs.cache
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.AssemblyInfo.cs
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.RazorAssemblyInfo.cache
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.RazorAssemblyInfo.cs
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\staticwebassets\msbuild.Proje.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\staticwebassets\msbuild.build.Proje.props
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Proje.props
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Proje.props
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\scopedcss\bundle\Proje.styles.css
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\scopedcss\projectbundle\Proje.bundle.scp.css
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.csproj.CopyComplete
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\refint\Proje.dll
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.pdb
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\Proje.genruntimeconfig.cache
+C:\Users\Erenn\Desktop\Web Proje\Proje\Proje\obj\Debug\net7.0\ref\Proje.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\appsettings.json
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Proje.staticwebassets.runtime.json
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Proje.exe
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Proje.deps.json
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Proje.runtimeconfig.json
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Proje.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Proje.pdb
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.csproj.AssemblyReference.cache
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.AssemblyInfoInputs.cache
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.AssemblyInfo.cs
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.csproj.CoreCompileInputs.cache
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.RazorAssemblyInfo.cache
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.RazorAssemblyInfo.cs
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\staticwebassets\msbuild.Proje.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\staticwebassets\msbuild.build.Proje.props
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Proje.props
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Proje.props
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\scopedcss\bundle\Proje.styles.css
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\scopedcss\projectbundle\Proje.bundle.scp.css
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.csproj.CopyComplete
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\refint\Proje.dll
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.pdb
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\Proje.genruntimeconfig.cache
+C:\Users\Erenn\Desktop\Github\Proje\Proje\obj\Debug\net7.0\ref\Proje.dll
